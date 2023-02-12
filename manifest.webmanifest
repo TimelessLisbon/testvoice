@@ -1,0 +1,12 @@
+{
+  "name": "Voice recognition Example",
+  "short_name": "Voice recognition Example",
+  "id": "com.planktonfun.voicerecognition",
+  "description": "A demo for using voice recognition in gdevelop, useful for a developer looking to make voice based games/apps.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
